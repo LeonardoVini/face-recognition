@@ -13,7 +13,7 @@
     Contains canvas and face recognition, expressions etc.
     <br>
     <br>
-    <img src="https://giphy.com/embed/PhZrUqaptpIqH6XrUF"/>
+    <img src="https://media.giphy.com/media/PhZrUqaptpIqH6XrUF/giphy.gif" alt="Demo example"/>
     <br>
     <br>
     <a href="https://github.com/LeonardoVini/face-recognition/issues/new">Report bug</a>
